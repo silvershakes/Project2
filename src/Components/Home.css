@@ -1,0 +1,27 @@
+.navig{
+    font-size: larger;
+    color: white;
+    font-weight: bold;
+}
+
+.navig:hover{
+    color: blue;
+    transition: 1s;
+}
+
+.motor{
+    margin-left: 30%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin-top:  1%;
+}
+.motor:hover{
+    color: blue;
+    transform: scale(10px);
+    transition: 1s;
+}
+
+.footer{
+    color: rgb(71, 60, 60);
+}
+
